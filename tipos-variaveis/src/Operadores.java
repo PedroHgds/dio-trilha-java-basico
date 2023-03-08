@@ -12,7 +12,7 @@ public class Operadores {
         boolean doadorOgao = false;
         System.out.println(doadorOgao);
 
-        Date dataNascimento = new Date();
+        //Date dataNascimento = new Date();
 
         double soma = 10.5 + 15.7;
         System.out.println(soma);
@@ -42,8 +42,5 @@ public class Operadores {
         concatenacao = "1"+(1+1+1);
         System.out.println(concatenacao);
 
-        
-
-
-    
+    }
 }
