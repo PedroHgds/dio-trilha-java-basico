@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "tipos-variaveis_d9a6eeb1"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
